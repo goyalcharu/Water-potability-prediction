@@ -1,7 +1,7 @@
 # Water-potability-prediction
 
 ## ABSTRACT
-In recent years the quality of water has degraded tremendously due to the industrial discharge of waste into the water bodies and ignorant and insensitive use of water by humans. This has caused threat to not only human life but also aquatic life. If drinking water [1] contains unsafe levels of contaminants, it can cause health effects, such as gastrointestinal illnesses, nervous system or reproductive effects, and chronic diseases such as cancer.
+In recent years the quality of water has degraded tremendously due to the industrial discharge of waste into the water bodies and ignorant and insensitive use of water by humans. This has caused threat to not only human life but also aquatic life. If drinking water contains unsafe levels of contaminants, it can cause health effects, such as gastrointestinal illnesses, nervous system or reproductive effects, and chronic diseases such as cancer.
 
 ## MOTIVATION BEHIND OUR PROJECT
 The main causes of the alarming rise in surface water pollution around the world are population growth, increased economic activity, agricultural expansion and intensification, and an increase in the volume of untreated sewage discharged into rivers and lakes. Furthermore, the groundwater as well is being affected by daily human activities. Pollutants that are being dumped into the ocean affect the daily life of fish and other marine creatures. Water pollution is a major problem in the developing world, with diseases such as cholera and typhoid fever being the primary cause of infant mortality.
