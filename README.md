@@ -1,4 +1,4 @@
-# Water-potability-prediction
+# Water-Potability-Prediction
 
 ## ABSTRACT
 In recent years the quality of water has degraded tremendously due to the industrial discharge of waste into the water bodies and ignorant and insensitive use of water by humans. This has caused threat to not only human life but also aquatic life. If drinking water contains unsafe levels of contaminants, it can cause health effects, such as gastrointestinal illnesses, nervous system or reproductive effects, and chronic diseases such as cancer.
